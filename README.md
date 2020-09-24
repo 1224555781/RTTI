@@ -1,5 +1,5 @@
-# GlobalDispachWithAnyTypeCast
-Unreal Engine 4  GlobalDispachWithAnyTypeCast
+# GlobalDispachWithR
+Unreal Engine 4  GlobalDispachWithRTTI
 
 EMMMM....
 
